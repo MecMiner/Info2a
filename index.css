@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(233, 114, 164);
+}
+button{
+  color: ;
+  background-color: rgb(241, 194, 227);
+  border-radius: 6px;
+}
+p{
+  background-color: aliceblue;
+  padding: 15px;
+  border-radius: 12px;
+}
+input{
+  border-radius: 6px;
+}
